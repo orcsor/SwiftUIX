@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     SwiftUIX Pod Library
                      DESC
   
-    s.homepage     = "git@github.com:orcsor/SwiftUIX.git"
+    s.homepage     = "https://github.com/orcsor/SwiftUIX.git"
   
     s.license      = { :type => "MIT", :file => "LICENSE" }
   
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
     s.osx.deployment_target = "10.14"
     s.watchos.deployment_target = "6.0"
   
-    s.source       = { :git => "git@github.com:orcsor/SwiftUIX.git", :tag => s.version }
+    s.source       = { :git => "https://github.com/orcsor/SwiftUIX.git", :tag => s.version }
     s.source_files  = ["Sources/**/*.swift"]
   
     # s.requires_arc = true

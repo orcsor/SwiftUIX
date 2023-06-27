@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "SwiftUIX"
-    s.version      = "0.1.5"
+    s.version      = "0.1.5.1"
     s.summary      = "SwiftUIX Pod Library"
   
     s.description  = <<-DESC
